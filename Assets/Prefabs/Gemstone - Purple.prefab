@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5662680241243441780}
   - component: {fileID: 5662680241243441778}
   - component: {fileID: 5662680241243441777}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Gemstone - Purple
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -149,4 +149,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71724dfab019e41e6aafff5c19deeffb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupClip: {fileID: 0}
+  enemy: {fileID: 0}

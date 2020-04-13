@@ -163,7 +163,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   potionType: 1
-  potionModAmount: 250
+  potionModAmount: 150
 --- !u!114 &2632237537047615736
 MonoBehaviour:
   m_ObjectHideFlags: 0
