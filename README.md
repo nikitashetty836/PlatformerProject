@@ -19,3 +19,5 @@ For help getting the player to kill enemies
 
 https://www.youtube.com/watch?v=ndYd4S7UkAU
 For help respawning the player
+
+NOTE: My computer had issues with its ability to import audio, so I could not get the correct audio files attached in unity. However, audio should work on other computers once assigned in unity.
